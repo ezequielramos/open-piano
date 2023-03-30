@@ -3,7 +3,7 @@ const KEY_UP = 128;
 const blackKeys = [1, 3, 6, 8, 10];
 const PEDAL = 177;
 /**
- * @type {null | import('./node_modules/simple-peer/index')}
+ * @type {null | import('simple-peer')}
  */
 let ps;
 
